@@ -31,3 +31,4 @@ This project is a Java Swing-based Flappy Bird clone that I developed using my k
 
 ## Images 
  
+![image alt](https://github.com/Umang-J-S/Flappy-bird-2.0/blob/ea5246651a22e381b3477e134f775ac93eee21e3/Screenshot%202025-03-10%20120510.png)
